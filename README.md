@@ -1,2 +1,3 @@
-# StayAtHome-db
-Another set of queries I did for StayAtHome database
+# StayAtHome-db (written on MySQL environment)
+Another set of queries I did for StayAtHome database 
+
